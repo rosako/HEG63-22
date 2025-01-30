@@ -13,6 +13,8 @@
 - vim
 - john the ripper
 - scapy
+- sqlite
+- flask
 - nmap
 - curl
 - wget
