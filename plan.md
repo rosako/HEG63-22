@@ -59,8 +59,6 @@
 - ufw
 
 
-
-
 ## Week 5
 
 ### Theory
@@ -111,7 +109,6 @@
 - sqli, xss, csrf
 - owasp top 10
 
-
 ### Practice
 - Burpsuite lab
 	- (sequential resource enumeration)
@@ -128,7 +125,6 @@
 - Footprints (cookies, browser history)
 - Spyware
 - Tor 101
-
 
 
 ## Week 11
