@@ -36,16 +36,18 @@ In this lab, you will explore how to break encrypted messages using these method
 
 ## Exercices
 
-1. Decode a Caesar Cipher
-	- You will receive a sentence encrypted with a Caesar cipher (e.g., Dwwdfn dw gdzq!).
-	- Use either manual analysis or write a Python script to try all shifts (0-25) and decode the message.
+1. Exercice 1: Decode a Caesar Cipher
+	- You will take a message encrypted with a Caesar cipher, locaed in `caesar_target.txt`.
+	- Use either:
+		- manual analysis
+		- write a Python script to try all shifts (0-25) and decode the message.
 
 
 2. Exercise 2: Break a Substitution Cipher
-	- A short text encrypted with a substitution cipher will be provided in a text file (e.g., cipher_text.txt).
-	- Use the provided Python script to:
+	- A short text encrypted with a substitution cipher will be provided in a text file (`substitution_target.txt`.
+	- Use the provided Python script (`frequency.py`) to:
 		- Analyze the frequency of letters in the encrypted text.
-		- Compare results with English letter frequencies.
+		- Compare results with French letter frequencies(https://fr.wikipedia.org/wiki/Fr%C3%A9quence_d%27apparition_des_lettres).
 		- Map the most frequent letters to their likely plaintext counterparts.
 	- Complete the decryption manually using the insights from frequency analysis
 
@@ -53,7 +55,7 @@ In this lab, you will explore how to break encrypted messages using these method
 
 
 ## Further references
-
+- https://fr.wikipedia.org/wiki/Fr%C3%A9quence_d%27apparition_des_lettres
 - https://pi.math.cornell.edu/~mec/2003-2004/cryptography/subs/frequencies.html
 
 
