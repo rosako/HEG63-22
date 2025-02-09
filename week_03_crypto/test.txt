@@ -1,2 +1,0 @@
-This is a test file for frequency analysis. It contains a mix of letters, some repeated more frequently than others. The goal is to determine which letters are most common in this text.
-
